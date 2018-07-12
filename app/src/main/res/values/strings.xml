@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Test_Bluetooth</string>
+    <string name="action_discovery">Discovery</string>
+    <string name="Server">Server</string>
+    <string name="client">Client</string>
+    <string name="turnOff">Turn off bluethooth?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="ok">OK</string>
+    <string name="noBluetooth">Without Bluetooth app can\'t do anything. App will close</string>
+    <string name="notDiscoverable">If device can\'t be discovered the app can\'t function. App will close</string>
+    <string name="serverTimeout">Connection failure. Server dicoverability has probably timed out.?</string>
+    <string name="try_again">Try again?</string>
+</resources>
